@@ -1,0 +1,9 @@
+:root {
+    --bg-display: #2B2D37;
+}
+
+.display {
+    background-color: var(--bg-display);
+    height: 82px;
+    width: 234;
+}
