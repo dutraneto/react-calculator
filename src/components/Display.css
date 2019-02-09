@@ -3,6 +3,15 @@
 }
 
 .display {
+    padding-right: 15px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 50px;
+    letter-spacing: -1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    grid-column: 1 / 5;
     background-color: var(--bg-display);
     height: 82px;
     width: 234;

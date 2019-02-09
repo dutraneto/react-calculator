@@ -9,7 +9,7 @@ export default class Calculator extends Component {
         return ( // expression
 
             <div className="calculator">
-                <Display />
+                <Display value={100}/>
                 <Button label="AC"/>
                 <Button label="/"/>
                 <Button label="7"/>

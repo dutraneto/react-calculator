@@ -1,6 +1,7 @@
 :root {
     --bg-button: #5E6065;
     --border-button: solid 1px #2B2D36;
+    --button-number-color: #E7E7E8;
 }
 
 .button {
@@ -11,4 +12,6 @@
     border-bottom: var(--border-button);
     margin: 0;
     outline: none;
+    color: var(--button-number-color);
+
 }
