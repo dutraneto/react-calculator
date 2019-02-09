@@ -15,4 +15,5 @@ body {
   text-align: center;
   color: #FFFFFF;
   background: -webkit-radial-gradient(circle, rgb(83,105,118) 30%, rgb(41,46,73));
+  background: radial-gradient(circle, rgb(83,105,118) 30%, rgb(41,46,73));
 }

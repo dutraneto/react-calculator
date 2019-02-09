@@ -9,10 +9,10 @@
     border-radius: 5px;
     /* overflow: hidden; */
     cursor: pointer;
-    
     display: grid;
     grid-template-columns: repeat(4, 25%);
     /* 3rem = 48px */
     grid-template-rows: 1fr repeat(5, 3rem); 
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.3);
 
 }

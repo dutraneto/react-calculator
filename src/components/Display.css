@@ -3,6 +3,7 @@
 }
 
 .display {
+    border: var(--border-button);
     padding-right: 15px;
     display: flex;
     justify-content: flex-end;
@@ -15,4 +16,5 @@
     background-color: var(--bg-display);
     height: 82px;
     width: 234;
+    overflow: hidden;
 }
