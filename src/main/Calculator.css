@@ -1,0 +1,13 @@
+/* 
+    This project is based on a calculator from MacOS
+    The same height and width
+*/
+
+.calculator {
+    height: 323px;
+    width: 234px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: red;
+
+}
